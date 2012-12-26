@@ -1,0 +1,5 @@
+c:\users\barbara\documents\visual studio 2012\Projects\papa_svg\papa_svg\bin\papa_svg.dll
+c:\users\barbara\documents\visual studio 2012\Projects\papa_svg\papa_svg\bin\papa_svg.pdb
+c:\users\barbara\documents\visual studio 2012\Projects\papa_svg\papa_svg\obj\Release\papa_svg.dll
+c:\users\barbara\documents\visual studio 2012\Projects\papa_svg\papa_svg\obj\Release\papa_svg.pdb
+c:\users\barbara\documents\visual studio 2012\Projects\papa_svg\papa_svg\obj\Release\papa_svg.csprojResolveAssemblyReference.cache
